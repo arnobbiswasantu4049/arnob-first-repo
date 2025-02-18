@@ -1,3 +1,3 @@
 # arnob-first-repo
 This is my first Git Repository.
-Autor-Arnob Biswas Antu
+Author-Arnob Biswas Antu
